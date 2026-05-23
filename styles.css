@@ -48,6 +48,14 @@ body {
   box-shadow: 0 0 60px rgba(216, 231, 255, 0.18);
 }
 
+.hero-logo {
+  width: min(460px, 82vw);
+  height: auto;
+  display: block;
+  margin: 0 auto 34px;
+  filter: drop-shadow(0 0 42px rgba(216, 231, 255, 0.18));
+}
+
 .eyebrow {
   margin: 0 0 16px;
   color: var(--muted);

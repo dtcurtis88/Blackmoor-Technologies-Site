@@ -49,11 +49,11 @@ body {
 }
 
 .hero-logo {
-  width: min(280px, 60vw);
+  width: min(320px, 62vw);
   height: auto;
   display: block;
-  margin: 0 auto 22px;
-  filter: drop-shadow(0 0 24px rgba(216, 231, 255, 0.10));
+  margin: 0 auto 20px;
+  filter: drop-shadow(0 0 24px rgba(216, 231, 255, 0.08));
 }
 
 .eyebrow {

@@ -28,11 +28,11 @@ body {
 }
 
 .hero {
-  min-height: 72vh;
+  min-height: 68vh;
   display: grid;
   place-items: center;
   text-align: center;
-  padding: 80px 0 56px;
+  padding: 56px 0 44px;
 }
 
 .brand-mark {
@@ -49,11 +49,11 @@ body {
 }
 
 .hero-logo {
-  width: min(320px, 62vw);
+  width: min(340px, 64vw);
   height: auto;
   display: block;
-  margin: 0 auto 20px;
-  filter: drop-shadow(0 0 24px rgba(216, 231, 255, 0.08));
+  margin: 0 auto 8px;
+  filter: drop-shadow(0 0 24px rgba(216, 231, 255, 0.10));
 }
 
 .eyebrow {
